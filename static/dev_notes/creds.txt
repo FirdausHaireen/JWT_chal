@@ -1,0 +1,2 @@
+# Dev Notes - Do not share!
+user:userpass
